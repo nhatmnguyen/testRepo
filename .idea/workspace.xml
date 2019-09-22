@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bf389e2-8ff4-41b0-878d-8148121d6c15" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R82H1IgD03ZFRl4daX4IM4yVND" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ConstructorExamplesTest.TestConstructorWithParams">
+    <configuration name="ArrayAndLoop" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javafortester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafortesters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javafortesterNT" />
+      <option name="MAIN_CLASS_NAME" value="javafortesters.ArrayAndLoop" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAndLoop.Array1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javafortester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafortesters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javafortesters" />
+      <option name="MAIN_CLASS_NAME" value="javafortesters.ArrayAndLoop" />
+      <option name="METHOD_NAME" value="Array1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorExamplesTest.TestConstructorMatch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javafortester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafortesters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javafortesters" />
+      <option name="MAIN_CLASS_NAME" value="javafortesters.ConstructorExamplesTest" />
+      <option name="METHOD_NAME" value="TestConstructorMatch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorExamplesTest.TestConstructorWithParams (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javafortester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafortesters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javafortesters" />
+      <option name="MAIN_CLASS_NAME" value="javafortesters.ConstructorExamplesTest" />
+      <option name="METHOD_NAME" value="TestConstructorWithParams" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorExamplesTest.TestConstructorWithParams" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="javafortester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafortesters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javafortesters" />
+      <option name="MAIN_CLASS_NAME" value="javafortesters.ConstructorExamplesTest" />
+      <option name="METHOD_NAME" value="TestConstructorWithParams" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ArrayAndLoop" />
+      <item itemvalue="TestNG.ArrayAndLoop.Array1" />
+      <item itemvalue="TestNG.ConstructorExamplesTest.TestConstructorMatch" />
+      <item itemvalue="TestNG.ConstructorExamplesTest.TestConstructorWithParams" />
+      <item itemvalue="TestNG.ConstructorExamplesTest.TestConstructorWithParams (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ConstructorExamplesTest.TestConstructorWithParams" />
+        <item itemvalue="TestNG.ConstructorExamplesTest.TestConstructorWithParams (1)" />
+        <item itemvalue="TestNG.ArrayAndLoop" />
+        <item itemvalue="TestNG.ConstructorExamplesTest.TestConstructorMatch" />
+        <item itemvalue="TestNG.ArrayAndLoop.Array1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf389e2-8ff4-41b0-878d-8148121d6c15" name="Default Changelist" comment="" />
+      <created>1569034310746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569034310746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ArrayAndLoop.java</url>
+          <line>18</line>
+          <properties class="javafortesters.ArrayAndLoop" method="Array1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ConstructorExamples.java</url>
+          <line>22</line>
+          <properties class="javafortesters.ConstructorExamples" method="getPassword">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ConstructorExamples.java</url>
+          <line>19</line>
+          <properties class="javafortesters.ConstructorExamples" method="getUsername">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ConstructorExamplesTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ConstructorExamples.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ConstructorExamples.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javafortesters/ConstructorExamplesTest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
